@@ -1,0 +1,25 @@
+{
+    "id": "argonsmp",
+    "name": "ArgonSMP",
+    "store": "https://store.argonsmp.org/",
+    "addresses": [
+        "argnosmp.org"
+    ],
+    "primaryAddress": "argonsmp.org",
+    "primaryColor": "#01ff00",
+    "secondaryColor": "#30782f",
+    "minecraftVersions": [
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "gameTypes": [
+        "Survival"
+    ]
+}
